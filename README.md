@@ -51,37 +51,39 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 ## Proje Kullanım Kılavuzu : 
 
 
-![8](https://user-images.githubusercontent.com/75446834/235306598-99d98c7d-1e16-47ba-b934-fdf417663785.png)
+![1](https://user-images.githubusercontent.com/75446834/235306806-7a693f95-7907-4bc5-b49c-9ef9d1535763.png)
 
 
-![9](https://user-images.githubusercontent.com/75446834/235306603-4a6766f7-6f78-4ec9-b7bf-8d2db9c315e7.png)
+![2](https://user-images.githubusercontent.com/75446834/235306813-6379d505-f17f-48a2-91f1-5a60b47abb5a.png)
 
 
-![10](https://user-images.githubusercontent.com/75446834/235306607-5ca08e26-e0a2-4aff-8111-d734924f14cb.png)
+![3](https://user-images.githubusercontent.com/75446834/235306817-409d9d38-0aff-4cf6-a785-8715f59458dd.png)
 
 
-![11](https://user-images.githubusercontent.com/75446834/235306612-84370065-c41d-4048-b106-e5ceba1ac663.png)
+![4](https://user-images.githubusercontent.com/75446834/235306823-38d06fe2-8606-45ac-9b31-834f8aae261c.png)
 
 
-![1](https://user-images.githubusercontent.com/75446834/235306616-7421cd21-027c-40cf-990f-e4cf88df451c.png)
+![5](https://user-images.githubusercontent.com/75446834/235306900-33733962-0c12-485c-acd5-28bc4b7de76f.png)
 
 
-![2](https://user-images.githubusercontent.com/75446834/235306619-79e4bb54-4584-4f5f-9d2b-76cb6552110f.png)
+![6](https://us![8](https://user-images.githubusercontent.com/75446834/235306852-4836f507-bcab-4ede-ae68-addf0079bb9d.png)
 
 
-![3](https://user-images.githubusercontent.com/75446834/235306628-1255aed0-5fc1-4e10-bcf8-b7bb3c1f7442.png)
+![7](https://user-images.githubusercontent.com/75446834/235306850-e845d1fc-1789-40b7-ac76-2db6dae269f0.png)
 
 
-![4](https://user-images.githubusercontent.com/75446834/235306631-0f25d38a-47b5-4d33-b6bc-1a3aa3c825d8.png)
+![8](https://user-images.githubusercontent.com/75446834/235306904-4dfbf98a-aa88-4cb8-9673-33a0058b6ed1.png)
 
 
-![5](https://user-images.githubusercontent.com/75446834/235306632-7591d231-3ae8-4309-8519-80dd66a37139.png)
+![9](https://user-images.githubusercontent.com/75446834/235306840-2c89db49-271d-44ab-bbaf-17cc9db807b3.png)
 
 
-![6](https://user-images.githubusercontent.com/75446834/235306633-9d85f770-d082-4d76-a641-c7c3983e6086.png)
+![10](https://user-images.githubusercontent.com/75446834/235306844-2d01b29c-d017-44f1-9c9b-7fb472a0ab6f.png)
 
 
-![7](https://user-images.githubusercontent.com/75446834/235306634-3b3243e9-29a0-4d63-86a2-bf2739e780dc.png)
+![11](https://user-images.githubusercontent.com/75446834/235306846-2f7c662b-b8b8-4c7e-92c7-65a5ece6ed75.png)
+
+
 
 
 ### Sitemiz nedir ve ne amaçla kurulmuştur?
