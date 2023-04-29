@@ -10,14 +10,14 @@ için firmaların ve yetkili kişilerin daha kolay bir şekilde ulaşmasını sa
 Böylece, depremden etkilenen öğrencilerin eğitim hayatlarını daha kolay bir şekilde sürdürmelerine
 ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefliyoruz. 
 
-###Öğrencilere Sağlanacak Destekler:
+### Öğrencilere Sağlanacak Destekler:
 
 - Mentörlük Görüşmeleri
 - Staj/ İş Olanakları
 - Akademik Burs Desteği
 - Elektronik Eşya Desteği
 
- ###Kullanmayı planladığımız teknolojiler:
+### Kullanmayı planladığımız teknolojiler:
  
  JavaScript, PHP, CSS, HTML, MYSQL olacaktır.
 
@@ -53,6 +53,6 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 [ Proje ChatGpt Kısımı İndir ](/5_KalemDostlarıSiteKullanımKılavuzu.pdf)
 
 
-## Bireysel Çalışması : 
+## Bireysel Çalışma : 
 
-[Bireysel Çalışması İndir ](/6-Bireysel_çalışma.pdf)
+[Bireysel Çalışma İndir ](/6-Bireysel_çalışma.pdf)
