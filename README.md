@@ -25,7 +25,7 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 
 ## Proje Bildirimi : 
 
-[Download the Catalog](/1_proje_bildirimi.pdf)
+[Proje Bildirimi İndir](/1_proje_bildirimi.pdf)
 
 
 ## Proje Katalouğu : 
@@ -35,24 +35,24 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 ![katalog1](https://user-images.githubusercontent.com/75446834/235304475-2c00eefb-0fa2-486e-8de7-512be7dc9b9d.png)
 
 
-[Download the Catalog](/2_KalemDostlarıProjeKatalougu.pdf)
+[ Proje Katalouğu  İndir](/2_KalemDostlarıProjeKatalougu.pdf)
 
 
 ## Proje Hikaye Kartları :
 
-[Download the Catalog](/3_HikayeKartları.pdf)
+[Proje Hikaye Kartları İndir ](/3_HikayeKartları.pdf)
 
 
 ## Proje ChatGpt Kısımı : 
 
-[Download the Catalog](/4_ChatGpt.pdf)
+[Proje ChatGpt Kısımı İndir](/4_ChatGpt.pdf)
 
 
 ## Proje Kullanım Kılavuzu : 
 
-[Download the Catalog](/5_KalemDostlarıSiteKullanımKılavuzu.pdf)
+[ Proje ChatGpt Kısımı İndir ](/5_KalemDostlarıSiteKullanımKılavuzu.pdf)
 
 
 ## Bireysel Çalışması : 
 
-[Download the Catalog](/6-Bireysel_çalışma.pdf)
+[Bireysel Çalışması İndir ](/6-Bireysel_çalışma.pdf)
