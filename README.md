@@ -1,4 +1,7 @@
 # KalemDostlari
 
 
-Proje Bildirimi :  [Proje Bildirimi Yükle ](1 PROJE BILDIRIMI.pdf)
+Proje Bildirimi : 
+
+[Download the Catalog](/catalogs/1 PROJE BILDIRIMI .pdf)
+
