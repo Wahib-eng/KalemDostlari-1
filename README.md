@@ -65,8 +65,7 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 
 ![5](https://user-images.githubusercontent.com/75446834/235306900-33733962-0c12-485c-acd5-28bc4b7de76f.png)
 
-
-![6](https://us![8](https://user-images.githubusercontent.com/75446834/235306852-4836f507-bcab-4ede-ae68-addf0079bb9d.png)
+![6](https://user-images.githubusercontent.com/75446834/235307014-52aefd04-8a36-40c6-9336-df9d048fd6c0.png)
 
 
 ![7](https://user-images.githubusercontent.com/75446834/235306850-e845d1fc-1789-40b7-ac76-2db6dae269f0.png)
@@ -116,6 +115,7 @@ Hayır, sitemizdeki kaynaklar tamamen ücretsizdir. Amacımız, depremzedelerin 
 hayatına destek olmak ve bu süreci kolaylaştırmaktır.
 
 
+## ChatGpt ile neler yaptık : 
 
 [ Proje ChatGpt Kısımı İndir ](/5_KalemDostlarıSiteKullanımKılavuzu.pdf)
 
