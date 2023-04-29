@@ -2,8 +2,10 @@
 
 
 Proje Bildirimi : 
+
 [Download the Catalog](/1_proje_bildirimi.pdf)
 
+![Screenshot 2023-04-29 155441](https://user-images.githubusercontent.com/75446834/235303727-34a661fd-e71e-417f-a798-560c18505015.png)
 
 Proje Katalouğu : 
 [Download the Catalog](/2_KalemDostlarıProjeKatalougu.pdf)
