@@ -25,7 +25,7 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 
 ## Proje Bildirimi : 
 
-[Proje Bildirimi İndir](/1_proje_bildirimi.pdf)
+[Proje Bildirimini İndir](/1_proje_bildirimi.pdf)
 
 
 ## Proje Katalouğu : 
@@ -35,17 +35,17 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 ![katalog1](https://user-images.githubusercontent.com/75446834/235304475-2c00eefb-0fa2-486e-8de7-512be7dc9b9d.png)
 
 
-[ Proje Katalouğu  İndir](/2_KalemDostlarıProjeKatalougu.pdf)
+[ Proje Katalouğunu İndir](/2_KalemDostlarıProjeKatalougu.pdf)
 
 
 ## Proje Hikaye Kartları :
 
-[Proje Hikaye Kartları İndir ](/3_HikayeKartları.pdf)
+[Proje Hikaye Kartlarını İndir ](/3_HikayeKartları.pdf)
 
 
 ## Proje ChatGpt Kısımı : 
 
-[Proje ChatGpt Kısımı İndir](/4_ChatGpt.pdf)
+[Proje ChatGpt Kısımını İndir](/4_ChatGpt.pdf)
 
 
 ## Proje Kullanım Kılavuzu : 
@@ -114,10 +114,7 @@ yeterlidir.
 Hayır, sitemizdeki kaynaklar tamamen ücretsizdir. Amacımız, depremzedelerin eğitim
 hayatına destek olmak ve bu süreci kolaylaştırmaktır.
 
-
-## ChatGpt ile neler yaptık : 
-
-[ Proje ChatGpt Kısımı İndir ](/5_KalemDostlarıSiteKullanımKılavuzu.pdf)
+[ Proje Kullanım Kılavuzu İndir ](/5_KalemDostlarıSiteKullanımKılavuzu.pdf)
 
 
 ## Bireysel Çalışma : 
