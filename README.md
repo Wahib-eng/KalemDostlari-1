@@ -40,6 +40,36 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 
 ## Proje Hikaye Kartları :
 
+### Kullanıcı Kayıt Hikayesi:
+
+#### - Kart 1: Depremzede Üye Girişi
+#### - Kart 3: Yönetici Üye Girişi
+#### - Kart 5: Diğer Üye Girişi
+
+### Destek Başlıkları Hikayeleri:
+#### -  İş/Staj Desteği Hikayesi
+ 
+### Elektronik Eşya / Kırtasiye Desteği Hikayesi
+
+
+### Akademik Burs Desteği Hikayesi
+
+
+### Mentorluk Desteği Hikayesi
+
+
+
+### Hikâye Kartları İsim Senaryosu:
+
+• AYŞE: Depremde mağdur olmuş bir öğrenci olan Ayşe
+• Ahmet: Yönetici ekibinde çalışan Ahmet
+• Ali: Yönetici olmak isteyen ekip insanlarından biri olan Ali
+• Sait: Staj desteği sağlayan firma sahibi Sait
+• Duygu Bayraktar: Mentorluk desteği sağlamak isteyen kullanıcı olan Duygu
+Bayraktar
+• Sabancı: Burs sağlamak isteyen kullanıcı olan Sabancı
+
+
 [Proje Hikaye Kartlarını İndir ](/3_HikayeKartları.pdf)
 
 
