@@ -1,5 +1,14 @@
 # KalemDostlari
 
+Merhaba,
+
+Sizlerle KalemDostlari adlı girişimimizin ürünlerinin tanıtımını ve pazarlamasını içeren bir katalog paylaşmak istiyorum. Bu katalogda, ürünlerimizin detaylı bilgileri ve özellikleri yer almaktadır.
+Kalem Dostları proje ürünlerimiz, gelişme deneyiminizi daha konforlu hale getirmek için tasarlanmıştır. KalemDostlari olarak, müşteri memnuniyeti odaklı hizmet anlayışımızla en kaliteli ürünleri sunmaya çalışıyoruz.
+Ürünlerimizin kullanım alanları, avantajları hakkında da bilgi sahibi olabilirsiniz.
+Projemiz, KalemDostlari'nin kalitesini ve yenilikçi yaklaşımını yansıtan bir ürün kataloğudur.
+Projemizi incelemek ve daha fazla bilgi edinmek için ilgili dosyaları inceleyebilirsiniz
+EKİP ÜYELERİMİZ : @https://github.com/hmyrcmn @https://github.com/SelinRumeysaKaya @https://github.com/HilalSaracoglu @https://github.com/Wahib-eng
+
 Projemiz depremde etkilenen ve zor durumda kalan öğrencilerin ihtiyaçlarına yönelik
 çeşitli yardımlar içeren bir web sitesidir. Bu yıl yaşanan deprem felaketi, birçok
 öğrencinin eğitim hayatını olumsuz etkiledi ve maddi açıdan da zor durumda kalmalarına
@@ -35,7 +44,7 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 ![katalog1](https://user-images.githubusercontent.com/75446834/235304475-2c00eefb-0fa2-486e-8de7-512be7dc9b9d.png)
 
 
-[ Proje Katalouğunu İndir](/2_KalemDostlarıProjeKatalougu.pdf)
+[![PDF](https://img.shields.io/badge/View-PDF-red)](/2_KalemDostlarıProjeKatalougu.pdf)
 
 
 ## Proje Hikaye Kartları :
@@ -149,9 +158,9 @@ yeterlidir.
 Hayır, sitemizdeki kaynaklar tamamen ücretsizdir. Amacımız, depremzedelerin eğitim
 hayatına destek olmak ve bu süreci kolaylaştırmaktır.
 
-[ Proje Kullanım Kılavuzu İndir ](/5_KalemDostlarıSiteKullanımKılavuzu.pdf)
+[![PDF](https://img.shields.io/badge/View-PDF-red)](/5_KalemDostlarıSiteKullanımKılavuzu.pdf)
 
 
 ## Bireysel Çalışma : 
 
-[Bireysel Çalışma İndir ](/6-Bireysel_çalışma.pdf)
+[![PDF](https://img.shields.io/badge/View-PDF-red)](/6-Bireysel_çalışma.pdf)
