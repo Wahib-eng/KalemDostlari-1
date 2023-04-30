@@ -3,11 +3,16 @@
 Merhaba,
 
 Sizlerle KalemDostlari adlı girişimimizin ürünlerinin tanıtımını ve pazarlamasını içeren bir katalog paylaşmak istiyorum. Bu katalogda, ürünlerimizin detaylı bilgileri ve özellikleri yer almaktadır.
+
 Kalem Dostları proje ürünlerimiz, gelişme deneyiminizi daha konforlu hale getirmek için tasarlanmıştır. KalemDostlari olarak, müşteri memnuniyeti odaklı hizmet anlayışımızla en kaliteli ürünleri sunmaya çalışıyoruz.
+
 Ürünlerimizin kullanım alanları, avantajları hakkında da bilgi sahibi olabilirsiniz.
+
 Projemiz, KalemDostlari'nin kalitesini ve yenilikçi yaklaşımını yansıtan bir ürün kataloğudur.
 Projemizi incelemek ve daha fazla bilgi edinmek için ilgili dosyaları inceleyebilirsiniz
-EKİP ÜYELERİMİZ : @https://github.com/hmyrcmn @https://github.com/SelinRumeysaKaya @https://github.com/HilalSaracoglu @https://github.com/Wahib-eng
+
+EKİP ÜYELERİMİZ : 
+@https://github.com/Wahib-eng @https://github.com/hmyrcmn @https://github.com/SelinRumeysaKaya @https://github.com/HilalSaracoglu
 
 Projemiz depremde etkilenen ve zor durumda kalan öğrencilerin ihtiyaçlarına yönelik
 çeşitli yardımlar içeren bir web sitesidir. Bu yıl yaşanan deprem felaketi, birçok
