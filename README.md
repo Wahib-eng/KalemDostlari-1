@@ -34,7 +34,7 @@ ve geleceklerini daha iyi bir şekilde planlamalarına yardımcı olmayı hedefl
 
 ## Proje Bildirimi : 
 
-[Proje Bildirimini İndir](/1_proje_bildirimi.pdf)
+[![PDF](https://img.shields.io/badge/View-PDF-red)](/1_proje_bildirimi.pdf)
 
 
 ## Proje Katalouğu : 
@@ -84,12 +84,11 @@ Bayraktar
 • Sabancı: Burs sağlamak isteyen kullanıcı olan Sabancı
 
 
-[Proje Hikaye Kartlarını İndir ](/3_HikayeKartları.pdf)
+[![PDF](https://img.shields.io/badge/View-PDF-red)](/3_HikayeKartları.pdf)
 
 
 ## Proje ChatGpt Kısımı : 
-
-[Proje ChatGpt Kısımını İndir](/4_ChatGpt.pdf)
+[![PDF](https://img.shields.io/badge/View-PDF-red)](/4_ChatGpt.pdf)
 
 
 ## Proje Kullanım Kılavuzu : 
