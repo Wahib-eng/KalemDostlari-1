@@ -174,6 +174,6 @@ SELİN RÜMEYSA KAYA [![PDF](https://img.shields.io/badge/View-PDF-red)][Selinr�
 HİLAL SARAÇOĞLU [![PDF](https://img.shields.io/badge/View-PDF-red)][HİLAL_SARAÇOĞLU_21360859147 (1).pdf](https://github.com/Wahib-eng/KalemDostlari/files/11361416/HILAL_SARACOGLU_21360859147.1.pdf)
 
 
-WAHIB MOQBEL  [![PDF](https://github.com/Wahib-eng/KalemDostlari/files/11361421/6-Bireysel_calisma_Wahib_MOQBEL.pdf)
+WAHIB MOQBEL  [![PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/Wahib-eng/KalemDostlari/files/11361421/6-Bireysel_calisma_Wahib_MOQBEL.pdf)
 
 
