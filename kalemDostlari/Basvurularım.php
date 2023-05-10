@@ -71,6 +71,8 @@ include_once "connection.php";
 
 <body style="background-color: rgb(221, 199, 177)">
 <p>denemeeeeeee</p>
+<p> gkfjhgcfcvbnmlşkjhg</p>
+<p> gkfjhgcfcvbnmlşkjhg</p>
   <div>
     <nav class="navbar navbar-expand-lg ">
       <div class="container-fluid">
