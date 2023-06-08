@@ -4,6 +4,12 @@ Merhaba,
 
 Sizlerle KalemDostlari adlı girişimimizin ürünlerinin tanıtımını ve pazarlamasını içeren bir katalog paylaşmak istiyorum. Bu katalogda, ürünlerimizin detaylı bilgileri ve özellikleri yer almaktadır.
 
+Sitemizin Video Tanıtımı:
+
+linki tıklayınız [here](https://youtu.be/fIQah5iDQCI).
+
+
+
 Kalem Dostları proje ürünlerimiz, gelişme deneyiminizi daha konforlu hale getirmek için tasarlanmıştır. KalemDostlari olarak, müşteri memnuniyeti odaklı hizmet anlayışımızla en kaliteli ürünleri sunmaya çalışıyoruz.
 
 Ürünlerimizin kullanım alanları, avantajları hakkında da bilgi sahibi olabilirsiniz.
