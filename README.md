@@ -6,7 +6,8 @@ Sizlerle KalemDostlari adlı girişimimizin ürünlerinin tanıtımını ve paza
 
 Sitemizin Video Tanıtımı:
 
-linki tıklayınız [here](https://youtu.be/fIQah5iDQCI).
+<iframe width="560" height="315" src="https://youtu.be/fIQah5iDQCI" frameborder="0" allowfullscreen></iframe>
+
 
 
 
