@@ -37,7 +37,7 @@
                 </li>
 
                 <li class="nav-item ms-3">
-                    <a class="btn btn-main" href="#">
+                    <a class="btn btn-main" href="login.php">
                         Giriş Yap
                     </a>
                 </li>
