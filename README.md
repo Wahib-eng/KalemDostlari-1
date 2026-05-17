@@ -1,15 +1,16 @@
 # KalemDostlari
 
+ Sizlere Yazılım Mühendisliği dersi kapsamında yürütmüş olduğumuz Kalem Dostları Projemizin tanıtımını gerçekleştirmek istiyorum.
+Kalem dostları, aylar öncesinde yaşamış olduğumuz deprem felaketi gibi birçok afet durumunda öğrencilerin ihtiyaçlarını karşılayacak ve onlara destek olma noktasında en hızlı şekilde yardım sağlayacak bir web sitesidir.
+Öğrenciler web sitesi aracılığıyla iş, staj, mentörlük ve elektronik eşya desteği gibi birçok konuda firmalarla ve bağışçılarla hızlı bir şekilde iletişim kurup destek alabileceklerdir.
+
+Projemizi incelemek ve geri dönüşlerinizi belirtmek isterseniz aşağıda bulunan github adresinden inceleyebilirsiniz.
+<br><br>[PROJE TANITIM DEMO -1 ](https://www.youtube.com/watch?v=CJY_IuMW8mw&t=14s)<br><br><br>
+[PROJE TANITIM SON  ](https://www.youtube.com/watch?v=fIQah5iDQCI)<br><br>
+
 Merhaba,
 
 Sizlerle KalemDostlari adlı girişimimizin ürünlerinin tanıtımını ve pazarlamasını içeren bir katalog paylaşmak istiyorum. Bu katalogda, ürünlerimizin detaylı bilgileri ve özellikleri yer almaktadır.
-
-Sitemizin Video Tanıtımı:
-
-<iframe width="560" height="315" src="https://youtu.be/fIQah5iDQCI" frameborder="0" allowfullscreen></iframe>
-
-
-
 
 Kalem Dostları proje ürünlerimiz, gelişme deneyiminizi daha konforlu hale getirmek için tasarlanmıştır. KalemDostlari olarak, müşteri memnuniyeti odaklı hizmet anlayışımızla en kaliteli ürünleri sunmaya çalışıyoruz.
 
@@ -175,10 +176,10 @@ hayatına destek olmak ve bu süreci kolaylaştırmaktır.
 ## Bireysel Çalışma : 
 HÜMEYRA ÇİMEN  [![PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/hmyrcmn/KalemDostlari-1/blob/main/Bireysel%C3%87al%C4%B1%C5%9FmaVizeH%C3%BCmeyra%C3%87imen19360859053.pdf)
 
-SELİN RÜMEYSA KAYA [![PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/SelinRumeysaKaya/KalemDostlari-1/blob/main/Selinr%C3%BCmeysakaya_20360859025_yaz%C4%B1l%C4%B1mm%C3%BChbireysel%C3%A7al%C4%B1%C5%9Fma%20(1).pdf)
+SELİN RÜMEYSA KAYA [![PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/Wahib-eng/KalemDostlari/blob/main/Selinr%C3%BCmeysakaya_20360859025_yaz%C4%B1l%C4%B1mm%C3%BChbireysel%C3%A7al%C4%B1%C5%9Fma%20(1).pdf)
 
 HİLAL SARAÇOĞLU [![PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/HilalSaracoglu/KalemDostlari_Proje/blob/main/H%C4%B0LAL_SARA%C3%87O%C4%9ELU_21360859147%20(1).pdf)
 
-WAHIB MOQBEL [![PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/Wahib-eng/KalemDostlari/files/11361440/6-Bireysel_calisma_Wahib_MOQBEL.pdf)
+WAHIB MOQBEL [![PDF](https://img.shields.io/badge/View-PDF-red)](https://github.com/Wahib-eng/KalemDostlari/blob/main/6-Bireysel_%C3%A7al%C4%B1%C5%9Fma_Wahib_MOQBEL.pdf)
 
 
